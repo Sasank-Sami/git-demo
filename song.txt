@@ -5,6 +5,7 @@
 3333
 3333
 44444
+<<<<<<< HEAD
 44444
 55555
 6666
@@ -12,3 +13,8 @@
 woenfwoenfowienf
 wonfoweifnwoeifn
 ------
+=======
+44444
+>>>>>>> e6a4e77e062a78315e3bdf4c751d4952ad93c68d
+
+new line has been aded

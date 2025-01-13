@@ -6,6 +6,7 @@
 3333
 44444
 <<<<<<< HEAD
+<<<<<<< HEAD
 44444
 55555
 6666
@@ -18,3 +19,9 @@ wonfoweifnwoeifn
 >>>>>>> e6a4e77e062a78315e3bdf4c751d4952ad93c68d
 
 new line has been aded
+=======
+44444
+eirgneoirgneg
+>>>>>>> a71b8603e3229f4b0fbaac178ad59fcc553c099b
+
+enfwefnif
